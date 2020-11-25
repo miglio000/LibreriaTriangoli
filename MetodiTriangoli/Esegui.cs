@@ -2,7 +2,7 @@
 
 namespace MetodiTriangoli
 {
-    public class Class1
+    public class Esegui
     {
         public static double InserisciLato()
         {
